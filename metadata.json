@@ -1,0 +1,6 @@
+{
+  "name": "SAP FICO Enterprise Case Study & Deliverable Hub",
+  "description": "Comprehensive research case study and export suite for SAP FICO real-world implementation covering Siemens AG, architecture, implementation methodology, and DOC deliverable generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
